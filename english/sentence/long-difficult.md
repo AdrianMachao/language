@@ -205,6 +205,9 @@ made in materials of higher intrinsic value
 current climatic events reveal evidence of the impact of human activities
 of what constitutes the natural variability of the climate
 
+32. The process is going on within the earth during that time, the convection of molten rock within earth's mantle rising to the surface cooling and then sinking again.
+
+33. The volcanic activity earthquakes. All the things that led to the creation of plate tectonics, in fact, were so intense than any rocks predating that first fossil would have been crushed and very likely melted.
 
 
 
