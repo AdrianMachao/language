@@ -428,7 +428,7 @@ Students apply for admission to a particular college.
 # from
 
 ## 离开起点并出发
-
+ 
 He is walking from the station.    地点
 He is from China.                 国家
 He‘ll be in London from Tuesday to Friday.   时间

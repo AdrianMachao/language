@@ -41,6 +41,6 @@ What a delicious carrot it is.
 ## 比较句型
 The more carrots you eat, the more healthier you become.
 ## however、whatever引导的让步状语从句倒装
-However long the video is, you should watch it till the end.
+However (No matter how) long the video is, you should watch it till the end.
 ## as、though...引导的让步状语从句倒装
 Much as he likes the carrots. he doesn't want to eat it.

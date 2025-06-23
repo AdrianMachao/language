@@ -24,7 +24,7 @@ Ihis was the place where the rabbit ate the carrot.
 This is the reason why the rabbit ate the carrot.
 ## 非限制性形容词从句
 I have a head which is round.（好几个头，其中一个是圆的）
-I have a head, which is round.（有一个头是圆的0
+I have a head, which is round.（有一个头是圆的）
 一般作插入语
 My head, which is big, is useful when it rains.
 The biggest carrot, which the rabbit ate, was on the table.
