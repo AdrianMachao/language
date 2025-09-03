@@ -210,4 +210,7 @@ of what constitutes the natural variability of the climate
 33. The volcanic activity earthquakes. All the things that led to the creation of plate tectonics, in fact, were so intense than any rocks predating that first fossil would have been crushed and very likely melted.
 
 
+34. Understanding how adolescents characterized by different academic and emotional adjustment statuses are influenced by and influence their school environment is another area worthy of more research.
+
+Though it may be difficult to imagine from a later perspective,a strain of critical opinion in the 1920s predicted that sound film would be a technical novelty (that would soon fade from sight),(just as had many previous attempts, (dating well back before the First World War),to link images with recorded sound).
 

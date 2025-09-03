@@ -25,7 +25,7 @@ The wolf helped the rabbit grow carrots.
 The wolf helped the rabbit to grow carrots.
 
 ## 定语
-The rabbit has a alot of carrot to eat.
+The rabbit has a a lot of carrot to eat.
 
 ## 做状语
 ### 表原因
@@ -35,7 +35,7 @@ I will do anything  to get a thumbs-up
 I will do anything in order that I get a thumbs-up
 ### 表结果
 I got enough thumbs-up to make another video
-I got enough thumbs-up, so that a made another video(结果状语从句)
+I got enough thumbs-up, so that made a another video(结果状语从句)
 
 
 # 动名词

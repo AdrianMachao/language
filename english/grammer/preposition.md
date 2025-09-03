@@ -169,7 +169,7 @@ on the committee
 
 ## 上方（空间）
 
-There was a lamp hanging overz the table
+There was a lamp hanging over the table
 
 ## 一头到一头(地点上的使用)
 
@@ -360,7 +360,7 @@ stand for /speak for   代表/代表...讲话
 
 ## 时间、距离、次数
 
-The film lasted for three hoursz。
+The film lasted for three hours.
 The meeting is fixed for 3 o'clock.
 He swims for 3000 meters every day.
 
@@ -369,7 +369,7 @@ He swims for 3000 meters every day.
 ## for vs to
 
 for 强调目标
-for 强调结果
+to 强调结果
 Is this the train for Beijing？ 不一定抵达
 Is this the train to Beijing?   要抵达的
 向前方目标运动
@@ -464,9 +464,7 @@ apologize to sb for sth
 奖惩，致谢，责备，宽恕，道歉 + for
 
 # of
-
 ## 分离
-
 of + 被解脱的事务; 跟钱相关的
 Remenber， don‘t deprive yourself of the foods you love
 I hate to rob her of this pleasure
